@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "Please enter your own database user name",
+    "DB_PASSWORD": "Please enter your own database password",
+    "DB_NAME": "Please enter your own database name",
+    "JWT_KEY": "r8q,+&1LM3)CD*zAGpx1xm{NeQhc;#"
+  }
+}
